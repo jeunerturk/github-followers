@@ -46,8 +46,8 @@
             filePath = "GithubFollowers/SearchVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
             landmarkName = "configureUI()"
             landmarkType = "7">
          </BreakpointContent>
