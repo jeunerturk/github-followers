@@ -39,7 +39,7 @@ class SearchVC: UIViewController {
         let followerListVC = FollowerListVC()
         followerListVC.userName = usernameTextField.text
         followerListVC.title = usernameTextField.text
-        navigationController?.pushViewController(followerListVC, animated: true)
+        navigationController?.pushViewController(followerListVC, animated: false)
     }
     
     func callEndEditing() {
